@@ -1,0 +1,6 @@
+{
+  "name": "Facelook Bet",
+  "description": "A high-fidelity social sports betting platform combining Facebook features with a peer-to-peer look-upto betting engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
